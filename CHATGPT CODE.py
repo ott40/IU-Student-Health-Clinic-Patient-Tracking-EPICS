@@ -4,7 +4,7 @@ then writes each response into specific columns of a destination Excel table.
 
 Requires:
   pip install openpyxl
-"""
+
 
 from datetime import datetime
 from openpyxl import load_workbook
@@ -122,3 +122,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    """
+
+"""all commented for now i guess"""
